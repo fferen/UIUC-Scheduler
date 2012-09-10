@@ -1,4 +1,5 @@
 UIUC-Scheduler
+
 ==============
 
-Web app for creating schedules at University of Illinois
+Google App Engine app for creating schedules at University of Illinois.
